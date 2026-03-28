@@ -1,22 +1,9 @@
 # AITFund
 
-AITFund is an early-stage venture fund investing in AI-native companies. The fund is led by **Diego Oppenheimer**.
+**AITFund** is a pre-seed venture firm backing founders building the 0-to-1 of AI-native companies. We invest at the earliest stage — when the idea is sharp, the founders are exceptional, and AI isn't a feature but the foundation.
 
-## About
+We focus on teams rethinking entire workflows and industries with AI at the core, not bolted on. Our sweet spot is technical founders who see what's newly possible and move fast to build it.
 
-This organization contains all systems, agents, and skills that power AITFund.ai operations — from deal flow and portfolio management to research and communications.
+Founded by [@doppenhe](https://github.com/doppenhe) and [@jheitzeb](https://github.com/jheitzeb) — both repeat founders and operators who've built AI/ML companies from scratch. We bring hands-on experience shipping AI products, scaling teams, and navigating the messy early days that matter most.
 
-## Repository Overview
-
-| Repo | Description |
-|------|-------------|
-| `Systems` | Core entity data, agent definitions, and operational infrastructure |
-| `dealio.skill` | Deal pipeline agent skill |
-| `challenger.skill` | Investment thesis challenger skill |
-| `sector-research.skill` | Sector and market research skill |
-| `ait-api.skill` | AITFund API skill |
-| `aitfund-newsletter` | Newsletter content and publishing |
-| `aitfund-newsletter.skill` | Newsletter generation skill |
-| `readai.skill` | Meeting notes integration skill |
-| `aitfund-deck` | Fund deck and presentation materials |
-| `fund-kb-web` | Fund knowledge base and website |
+Learn more at [aitfund.ai](https://aitfund.ai).
